@@ -12,7 +12,7 @@ Hi, I’m Mayank Singh Rawat 👋<br>A passionate Information Technology (IT) un
 ![](https://streak-stats.demolab.com/?user=mayank200529&theme=merko&hide_border=false)<br/>
 ![](https://github-readme-stats.shion.dev/api/top-langs/?username=mayank200529&theme=merko&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
-# 📊 LeetCode Stats:
+# 🧠 LeetCode Stats:
 ![LeetCode Stats](https://leetcard.jacoblin.cool/Mayank2905?theme=dark&font=Karma&ext=heatmap)
 
 ### 🔝 Top Contributed Repo
