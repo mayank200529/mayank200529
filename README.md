@@ -1,6 +1,6 @@
 <div align="center">
 
-![Mayank Banner](YOUR_BANNER_URL_HERE)
+![Mayank Banner](https://chatgpt.com/s/m_6a23dc14356c8191bef1cc72f5c16fc4)
 
 # Hey, I'm Mayank Singh Rawat 👋
 
@@ -50,7 +50,7 @@
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
   </a>
 
-  <a href="mailto:YOUR_EMAIL_HERE">
+  <a href="mailto:mayanksinghrawat.it27@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
   </a>
 
