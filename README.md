@@ -1,6 +1,8 @@
 <div align="center">
 
-![Mayank Banner](https://chatgpt.com/s/m_6a23dc14356c8191bef1cc72f5c16fc4)
+<div align="center">
+  <img src="https://raw.githubusercontent.com/mayank200529/mayank200529/main/bannerGithub.png" width="100%">
+</div>
 
 # Hey, I'm Mayank Singh Rawat 👋
 
