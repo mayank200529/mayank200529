@@ -10,19 +10,6 @@
 
 <img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&weight=600&size=24&duration=2500&pause=1000&color=58A6FF&center=true&vCenter=true&width=900&lines=GSSoC'26+Contributor+%7C+Top+1%25;500%2B+DSA+Problems+Solved;Software+Developer+%7C+Python+%7C+C%2B%2B+%7C+SQL;Data+Analytics+with+Python+and+Tableau;Building+Projects+that+Create+Impact" alt="Typing animation" />
 
-<p>
-  <a href="https://komarev.com/ghpvc/?username=mayank200529&label=Profile%20views&color=0e75b6&style=for-the-badge">
-    <img src="https://komarev.com/ghpvc/?username=mayank200529&label=Profile%20views&color=0e75b6&style=for-the-badge" />
-  </a>
-
-  <a href="https://github.com/mayank200529?tab=followers">
-    <img src="https://img.shields.io/github/followers/mayank200529?logo=github&style=for-the-badge" />
-  </a>
-
-  <a href="https://github.com/mayank200529?tab=repositories">
-    <img src="https://img.shields.io/github/stars/mayank200529?affiliations=OWNER%2CCOLLABORATOR&style=for-the-badge" />
-  </a>
-</p>
 
 </div>
 
