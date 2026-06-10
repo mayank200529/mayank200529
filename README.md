@@ -1,7 +1,7 @@
 <div align="center">
 
 <div align="center">
-  <img src="https://raw.githubusercontent.com/mayank200529/mayank200529/main/bannerGithub.png" width="100%">
+  <img src="https://raw.githubusercontent.com/mayank200529/mayank200529/main/banner.png" width="100%">
 </div>
 
 # Hey, I'm Mayank Singh Rawat 👋
