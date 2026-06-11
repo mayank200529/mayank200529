@@ -8,8 +8,9 @@
 
 ### Software Developer • Data Analyst • Open Source Contributor
 
+<img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&weight=600&size=24&duration=2500&pause=1000&color=58A6FF&center=true&vCenter=true&width=900&lines=GSSoC'26+Contributor+%7C+Top+1%25;500%2B+DSA+Problems+Solved;Software+Developer+%7C+Python+%7C+C%2B%2B+%7C+SQL;Data+Analytics+with+Python+and+Tableau;Building+Projects+that+Create+Impact" alt="Typing animation" />
+
 <br> 
-<br>
 
 ## 🏆 GSSoC 2026 Achievements
 
@@ -33,8 +34,30 @@
   <b>Power Contributor</b> •
   <b>Elite</b>
 </p>
+<br> 
 
-<img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&weight=600&size=24&duration=2500&pause=1000&color=58A6FF&center=true&vCenter=true&width=900&lines=GSSoC'26+Contributor+%7C+Top+1%25;500%2B+DSA+Problems+Solved;Software+Developer+%7C+Python+%7C+C%2B%2B+%7C+SQL;Data+Analytics+with+Python+and+Tableau;Building+Projects+that+Create+Impact" alt="Typing animation" />
+## 🏆 GSSoC 2026 Achievements
+
+<p align="center">
+  <img src="./assets/open (1).png" width="150"/>
+  <img src="./assets/contributor (1).png" width="150"/>
+  <img src="./assets/gssoc-badge-rising_star.png" width="150"/>
+</p>
+
+<p align="center">
+  <img src="./assets/gssoc-badge-on_a_roll (2).png" width="150"/>
+  <img src="./assets/gssoc-badge-power_contributor (4).png" width="150"/>
+  <img src="./assets/gssoc-badge-elite (2).png" width="150"/>
+</p>
+
+<p align="center">
+  <b>Open Source Track</b> •
+  <b>Contributor</b> •
+  <b>Rising Star</b> •
+  <b>Rare Merged</b> •
+  <b>Power Contributor</b> •
+  <b>Elite</b>
+</p>
 
 
 </div>
