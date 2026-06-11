@@ -8,6 +8,8 @@
 
 ### Software Developer • Data Analyst • Open Source Contributor
 
+
+
 ## 🏆 GSSoC 2026 Achievements
 
 <p align="center">
