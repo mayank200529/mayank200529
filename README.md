@@ -6,7 +6,7 @@
 
 # Hey, I'm Mayank Singh Rawat 👋
 
-### Software Developer • Data Analyst • Open Source Contributor
+### Software Developer • Open Source Contributor
 
 <img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&weight=600&size=24&duration=2500&pause=1000&color=58A6FF&center=true&vCenter=true&width=900&lines=GSSoC'26+Contributor+%7C+Top+1%25;500%2B+DSA+Problems+Solved;Software+Developer+%7C+Python+%7C+C%2B%2B+%7C+SQL;Data+Analytics+with+Python+and+Tableau;Building+Projects+that+Create+Impact" alt="Typing animation" />
 
@@ -51,10 +51,10 @@
 - 📈 Current CGPA: **9.4**
 - 🏆 GSSoC'26 Contributor | Top 1% Globally
 - 💻 Software Developer passionate about Backend Development
-- 📊 Data Analytics Enthusiast (SQL, Tableau, Python)
-- 🧠 Solved 500+ DSA Problems on LeetCode
-- 🌱 Currently learning System Design, Cloud & Open Source Development
-- 🚀 Looking for Software Developer & Data Analyst Opportunities
+- 📊 Data Analytics - SQL , Python
+- 🧠 Solved 400+ DSA Problems on LeetCode
+- 🌱 Currently learning System Design, & Open Source Development
+- 🚀 Looking for Software Developer Opportunities
 
 <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="900">
 
@@ -85,13 +85,7 @@
 ### Languages
 
 <p>
-  <img src="https://skillicons.dev/icons?i=cpp,c,python,js,html,css,mysql" />
-</p>
-
-### Frameworks & Libraries
-
-<p>
-  <img src="https://skillicons.dev/icons?i=flask,nodejs,express,react,bootstrap" />
+  <img src="https://skillicons.dev/icons?i=cpp,c,python,flask,html,css,mysql" />
 </p>
 
 ### Databases
@@ -100,16 +94,10 @@
   <img src="https://skillicons.dev/icons?i=mysql,mongodb" />
 </p>
 
-### Data Analytics & ML
-
-<p>
-  <img src="https://skillicons.dev/icons?i=tensorflow,pytorch" />
-</p>
-
 ### Tools
 
 <p>
-  <img src="https://skillicons.dev/icons?i=git,github,vscode,postman" />
+  <img src="https://skillicons.dev/icons?i=git,github,vscode" />
 </p>
 
 <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="900">
@@ -176,9 +164,9 @@
 
 🤖 Google Cloud Gen AI Academy
 
-🎓 CGPA 9.4 at JECRC Foundation
+🎓 CGPA 9.28 at JECRC Foundation
 
-🧠 500+ DSA Problems Solved
+🧠 400+ Leetcode Problems Solved
 
 <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="900">
 
